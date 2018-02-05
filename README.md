@@ -9,9 +9,9 @@
 -FOR RUN IN LOCAL MACHINES OR VIRTUAL ONES:
 
 ###############################################
-
+```
 -1.Create a database called "overpoch2018" with his username: "overpoch2018" and his pass: "overpoch2018". (we gonna use that names cuz is the value for default that i put. You can change it later.)
-
+```
 -2.A.  Create a fresh server files in C:\overpoch\  
 (We gonna use that path cuz its already defined in server files,other way you gonna need edit a lot).
 Note that you will need add @DayzOverwatch and @DayZ_Epoch
