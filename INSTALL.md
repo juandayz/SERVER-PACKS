@@ -23,7 +23,7 @@ Note that you will need add @DayzOverwatch and @DayZ_Epoch
 ```
 ```
 -2.B.Do not put @DayZ_Epoch_Server and MPMissions folder provided by epoch. we gonna use our owns.
-So basically in this step you jsut need drop all content from your arma2 and arma2oa in one single folder.
+So basically in this step you jsut need drop all content from your arma2 and arma2oa in one single folder.Download overwacht and dayz_epoch client files.
 ```
 
 ```
