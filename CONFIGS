@@ -1,1 +1,29 @@
 #CONFIG FILE.
+
+**We gonna take as example Takistan. (but its the same for the others).**
+
+JUST FOR LOCAL OR VIRTUAL MACHINES.
+
+**I wanna change my database,user and pass names.**
+A.Open the HiveExt.ini and change the names in those lines:
+```ruby
+;Database name to connect to.
+Database = overpoch2018
+;Username to connect with
+Username = overpoch2018
+;Password to authenticate with (default is blank)
+Password = overpoch2018
+```
+B.Open START_WITH_RESTART.bat and change the names in those lines:
+```ruby
+set DB_USERNAME="overpoch2018"
+set DB_PASSWORD="overpoch2018"
+set DB_NAME="overpoch2018"
+```
+
+**I wanna change my BEC pass.**
+A.Open the BEServer.cfg and change the names in this line:
+```ruby
+RConPassword overpoch2018
+```
+
