@@ -78,3 +78,34 @@ template = "DayZ_Epoch_1.Takistan";
 ```
 
 -WE ARE DONE. CHECK THE CONFIG FILE IF U WANNA KNOW MORE ABOUT THE SERVER.
+
+
+
+**INFISTAR USERS.
+
+-1.Open your AHConfig.sqf
+This is my _ALLOWED_Dialogs list.
+
+```ruby
+_ALLOWED_Dialogs = _ALLOWED_Dialogs + [2600,2601,4800,9000,81000,88890,20001,20002,20003,20004,20005,20006,55510,55511,55514,55515,55516,55517,55518,55519,555120,118338,118339,571113]; // adding some others from community addons
+```
+
+-2.Into _cMenu = [.........];   paste:
+
+```ruby
+,"#USER:PlayerActionsMenu","#USER:Housemenu","#USER:HudToggle","#USER:deploy","#USER:GrassToggle","#USER:SETVIEW","#USER:sounds","#USER:color","#USER:write","#USER:dance","#USER:deployweapons","#USER:Server","#USER:players","#USER:MY","#USER:adminevents","#USER:admmenu","#USER:surveillance","#USER:STATICS","#USER:USEFUL","#USER:ACTIONS","#USER:workshopMenu","#USER:xmastree","#USER:questions"
+```
+
+-3. Into _dayzActions =[.........];
+
+```ruby
+,"s_player_13252_copyToKey",
+	"s_player_copyToKey","s_player_claimVehicle",
+	"s_player_clothes","s_player_fastgear","s_player_fastgear2","s_player_refugeedoor","s_player_cctv","s_player_camerasys",
+    "s_player_officer","s_player_bagg","s_player_TobaccoSell","s_bank_dialog1","s_player_isgambling2","s_player_zhide2",
+    "s_player_cleanguts","s_player_makepiss","s_player_makepoo","s_player_box","s_player_behero","s_player_bebandit","s_player_managework","s_player_xmastree","s_player_xmas",
+	"s_player_refugee","s_player_refugee_guard","s_player_detentiondoor","s_player_get_key","s_player_sisterdoor","s_player_baker","s_player_sisterdoor2",
+	"s_player_questions","s_player_fillMelamine","s_player_tobacco","s_player_animals_actions","s_player_Sowtobacco",
+	"s_player_tobaccoGrow","s_player_waterSupply","s_player_tobacco_def","s_player_tobacco_mer","s_player_opencrate","s_player_openViruscrate","s_player_radioON",
+	"s_player_flipcrate","s_player_cannibal"
+```
