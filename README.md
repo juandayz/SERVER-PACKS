@@ -29,6 +29,7 @@ So basically in this step you jsut need drop all content from your arma2 and arm
 -4.To start your server go to C:\DZE_Server_Config\ and click over "START_WITH_RESTART.bat" or "start_withoutrestart.bat".-
 
 -WE ARE DONE. THE SERVER CAN RUN NOW WITH AN AUTORESTART. CHECK THE CONFIG FILE IF U WANNA KNOW MORE ABOUT THE SERVER
+
 ################################################
 
 
