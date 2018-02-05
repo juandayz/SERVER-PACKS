@@ -1,7 +1,7 @@
 # SERVER-PACKS INCLUDES LINGOR-NAPF-SAUERLAND-TAKISTAN
 
 MANY TNKS: TO CHERDENKO,NOVA,OLDMATECHOC for all support during this work. 
-
+TNKS TOO : to SuperSonic,Beta,Wagner and Soldado for give me an space to work on it.
 
 *You can choose whatever of this ones.*
 *All of they are Ovepoch*
