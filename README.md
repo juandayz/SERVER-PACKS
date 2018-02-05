@@ -46,3 +46,27 @@ So basically in this step you jsut need drop all content from your arma2 and arm
 
 
 -FOR RUN IN HOSTS LIKE GTX:
+```
+1.Choose the map that you will use: for example Takistan.
+```
+
+```
+-2.A.Open serverpacks\takistan\@DayZ_Epoch_Server_taki\addons\ and drop dayz_server.pbo into your @DayZ_Epoch_Server\addons\
+```
+
+```
+-2.B.Open serverpacks\takistan\MPMissions\ and drop DayZ_Epoch_1.Takistan.pbo
+```
+
+```
+-3.Open from your host your config.cfg 
+```
+-Find this line: (the name of the line could change according to the map you are currently using) 
+```ruby
+template = "DayZ_Epoch_11.Chernarus";
+```
+-Change By:
+```ruby
+template = "DayZ_Epoch_1.Takistan";
+```
+
