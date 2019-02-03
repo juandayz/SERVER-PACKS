@@ -6,6 +6,10 @@
 
 
 
+
+
+
+
 We gonna take as example Takistan. (but its the same for the others).
 
 DATABASE CHANGES :: JUST FOR LOCAL OR VIRTUAL MACHINES.
